@@ -1,4 +1,4 @@
-aliyun_test_accessKey="LTAI4Fytv7ALKzkNVBV61bps"
-secret="KSBsSTIFcYWNu2WXTTLAAiprSDSiaa"//随便写的
+aliyun_test_accessKey="a"
+secret="b"//随便写的
 
-access="LTAIQEyKhMSfBQRa"
+access="c"
