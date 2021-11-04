@@ -1,4 +1,2 @@
-aliyun_test_accessKey="a"
-secret="b"//随便写的
-
-access="c"
+accesskey="giwa6mQhwmxTgOcz"
+    accessecret='LTAI4G8L2123fX4mqDbs9Xmk'
